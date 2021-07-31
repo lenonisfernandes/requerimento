@@ -1,6 +1,7 @@
 package requerimento;
 
 public class Requerimento {
+	//comentário
 	private Integer id;
 	
 	private String nome;
